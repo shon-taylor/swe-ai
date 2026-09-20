@@ -1,1 +1,1 @@
-# swe-ai
+# Software Engineering with AI Capstone Project
