@@ -8,7 +8,7 @@ All architecture decisions in this scaffolding were made by us (human), based on
 AI CODE GENERATION DISCLAIMER & DETAILED LOG
 --------------------------------------------------------------------------------
 
-Notice: The code, configuration, and documentation files listed below were generated or modified with AI assistance (tool: _____ — e.g. Claude Code / Copilot / Cursor) under human direction and review. Every AI-assisted change was reviewed and, where needed, corrected before commit.
+Notice: The code, configuration, and documentation files listed below were generated or modified with AI assistance (tool: Claude Code / Copilot / Cursor) under human direction and review. Every AI-assisted change was reviewed and, where needed, corrected before commit.
 
 **Detailed Change Breakdown & AI Code Attribution:**
 
