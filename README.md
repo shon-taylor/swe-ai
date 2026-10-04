@@ -39,4 +39,5 @@ Notice: The code, configuration, and documentation files listed below were gener
 ## Team split
 - **Partner A**: Backend — generator route + logic, tests
 - **Partner B**: Backend — scanner route + logic, frontend for both pages
-(Adjust to however you actually divide it.)
+  
+*Still working on setting up team.
