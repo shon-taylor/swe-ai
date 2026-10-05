@@ -30,3 +30,19 @@ def generate():
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
+
+
+# This Flask app provides an endpoint to generate QR codes.
+# The generated QR codes are returned as base64-encoded PNG images.
+# Example request:
+# POST /api/generate
+# {
+#     "text": "https://example.com",
+#     "box_size": 10,
+#     "border": 4,
+#     "error_correction": "M"
+# }
+# Example response:
+# {
+#     "image_base64": "<base64-encoded PNG>"
+# }
