@@ -1,4 +1,4 @@
-"""Flask app for QR generation."""
+"""Flask app for QR generation. Returns base64-encoded PNG images."""
 import base64
 from flask import Flask, request, jsonify
 from generator import generate_qr_code
