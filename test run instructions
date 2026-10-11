@@ -1,3 +1,5 @@
 1. cd into the backend folder using terminal
 2. Run pip install -r requirements.txt
 3. Run python -m pytest --cov=. --cov-report=term-missing
+
+Update to new branch for pull request

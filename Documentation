@@ -1,0 +1,38 @@
+# AI Usage Documentation
+
+## Overview
+
+This document describes how our team used AI while building QR Scanner & Generator, a Python and Flask web app that uses computer vision to generate or decode QR codes through images or real time scanning. We used Claude throughout the project, so this covers what we used it for, how we checked its work, and what we'd watch out for.
+
+## Tech Stack
+
+- **Language:** Python
+- **Web framework:** Flask
+- **Computer vision:** [OpenCV]
+- **Testing:** [pytest];
+
+## AI Tool Used
+
+We used **Claude** for all AI assistance. No other AI tools were used. 
+
+## How AI Was Used
+
+**Planning and design.** We brainstormed with Claude to choose our tech stack and to plan the Flask routes.
+
+**Writing code.** Claude wrote the code for the project, and the team reviewed it before it was committed. 
+
+**Debugging.** We did not run into bugs at this stage, since the project is fairly simple. We'll update this section if that changes.
+
+**Testing.** Claude wrote a simple test that anyone can run to check the project. 
+
+**Documentation.** The documentation, including this file, is being updated and maintained with Claude as the project changes. The team reviews the updates for accuracy.
+
+## How We Verified AI Output
+
+- A team member reviewed all AI-written code before it was committed.
+- We ran the application and the test to confirm it behaved as expected.
+- Pull requests were approved by a teammate other than the author.
+
+## Limitations and Risks
+
+Because Claude wrote both the code and the test, there's some risk of shared blind spots: if a requirement were misunderstood, it could be misunderstood in both places and the test would still pass. Our current test is also simple, so it checks basic behavior and not every edge case. To reduce this risk, we are adding tests we write ourselves, trying unusual or invalid inputs and checking computer vision output by eye on real images.
