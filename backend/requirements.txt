@@ -1,4 +1,6 @@
 flask
 qrcode[pil]
+opencv-python-headless
+numpy
 pytest
 pytest-cov
