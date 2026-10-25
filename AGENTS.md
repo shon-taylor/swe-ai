@@ -10,9 +10,8 @@ These are our team's ground rules for using AI coding tools on this repo, for th
 5. **Tests are written or reviewed by a human**, even if AI drafts the first pass — the assertions have to make sense to us, not just pass.
 
 ## Tools used
-- Tool: _____ (e.g. Claude Code, GitHub Copilot, Cursor)
-- Plan/access: _____
+- Tool: Claude 
 
 ## Review responsibility
-- Backend AI-assisted changes reviewed by: _____
-- Frontend AI-assisted changes reviewed by: _____
+- Backend AI-assisted changes reviewed by: Shon Taylor & Justin Morgan
+- Frontend AI-assisted changes reviewed by: Shon Taylor & Justin Morgan
